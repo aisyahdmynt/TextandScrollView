@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextviewandScrollview</string>
+
+    <string name="mypara">
+        Teman Guru merupakan sebuah komunitas yang bergerak pada bidang pendidikan dan teknologi. Berawal dari keluhan seorang guru SMK di Yogyakarta yang merasa kesulitan dalam menyesuaikan peralihan pembelajaran menjadi daring yang diberlakukan di Indonesia sejak pandemi. Kami tergerak untuk mengadakan workshop pelatihan pembelajaran sesuai dengan kebutuhan guru disana. Tujuan utama kami adalah meningkatkan kualitas guru di Indonesia dengan membantu guru dalam meningkatkan pengetahuan teknologi.
+    </string>
+</resources>
